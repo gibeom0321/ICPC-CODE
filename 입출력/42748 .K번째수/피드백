@@ -1,0 +1,2 @@
+문자열 슬라이싱 할 수 있는지 물어보는 간단한 문제
+string[start:end:step]
